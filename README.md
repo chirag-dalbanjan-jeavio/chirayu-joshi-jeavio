@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Chirayu Joshi
+- 👀 I’m interested in Fullstack development, Cloud computing and App development
+- 📫 How to reach me chirayu.joshi@jeavio.com
